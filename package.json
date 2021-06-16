@@ -57,7 +57,7 @@
     "sequelize": "^3.30.4",
     "should": "^13.2.1",
     "supertest": "^3.0.0",
-    "then-redis": "^2.0.1"
+    "ioredis": "^2.0.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.1",
